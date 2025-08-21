@@ -1,6 +1,6 @@
 # Customer Shopping Trends Analysis
 
-## By: [Tahsin Jahin Khalid](https://tahsinjahinkhalid.github.io/)
+## By: [https://github.com/lksh2333]
 
 ## About
 
